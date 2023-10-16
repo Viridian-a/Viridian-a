@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Bexplora](https://github.com/4GeeksAcademy/Bexplora-Project)
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C#**
 
 - 📫 How to reach me **diana.chacon.montero@gmail.com**
 
